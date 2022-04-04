@@ -18,7 +18,7 @@ Make sure the new prompt starts with >
 2. Type SFDX: Create Project and press Enter to select the standard template.
 3. Type the project name salesforce_hw and press Enter.
 
-This step can be optional since the project is created in the repo
+This step can be optional since the project is created in the repo. In which case close any project/workspace and open exactly in the SFDC repo checked out.
 
 ## Search your files and add orgName
 1. Press Command + P on Mac or Ctrl + P on Windows to make the search palette appear. This shifts the focus to search files.
